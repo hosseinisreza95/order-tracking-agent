@@ -19,7 +19,7 @@ An enterprise-ready AI Agent designed to handle customer order inquiries. Built 
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/order-tracking-agent.git](https://github.com/YOUR_USERNAME/order-tracking-agent.git)
+git clone [https://github.com/hosseinisreza95/order-tracking-agent.git](https://github.com/hosseinisreza95/order-tracking-agent.git)
 cd order-tracking-agent
 ```
 
